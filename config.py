@@ -44,7 +44,7 @@ MESSAGES = {
 
 <blockquote expandable>I ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ғɪʟᴇ sʜᴀʀᴇ ʙᴏᴛ V3!\nTʜᴇ ʙᴇsᴛ ᴘᴀʀᴛ ɪs ɪ ᴀᴍ ᴀʟsᴏ sᴜᴘᴘᴏʀᴛ ʀᴇǫᴜᴇsᴛ ғᴏʀᴄᴇsᴜʙ ғᴇᴀᴛᴜʀᴇ, Tᴏ ᴋɴᴏᴡ ᴅᴇᴛᴀɪʟᴇᴅ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴄʟɪᴄᴋ ᴀʙᴏᴜᴛ ᴍᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴀʟʟ ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs!.</blockquote></b>"""
     
-    "FSUB": "<b><blockquote>›› ʜᴇʏ ×</blockquote>\n  ʏᴏᴜʀ ғɪʟᴇ ɪs ʀᴇᴀᴅʏ ‼️ ʟᴏᴏᴋs ʟɪᴋᴇ ʏᴏᴜ ʜᴀᴠᴇɴ'ᴛ sᴜʙsᴄʀɪʙᴇᴅ ᴛᴏ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ʏᴇᴛ, sᴜʙsᴄʀɪʙᴇ ɴᴏᴡ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ғɪʟᴇs</b>",
+    "FSUB" : "<b><blockquote> ʜᴇʏ </blockquote>\nʏᴏᴜʀ ғɪʟᴇ ɪs ʀᴇᴀᴅʏ!! ʟᴏᴏᴋs ʟɪᴋᴇ ʏᴏᴜ ʜᴀᴠᴇɴ'ᴛ sᴜʙsᴄʀɪʙᴇᴅ ᴛᴏ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ </b>"
     "ABOUT": "<b>››🤖 ᴍʏ ɴᴀᴍᴇ: {MILKY BOT} \n <blockquote expandable>›› ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Black_walker_id>Bʟᴀᴄᴋ Wᴀʟᴋᴇʀ 🜲</a>\n» ᴏᴜʀ ᴄᴏᴍᴍᴜɴɪᴛʏ : <a href=https://t.me/play_tamil_dubbed_series>ᴘʟᴀʏ ᴄᴏᴍᴍᴜɴɪᴛʏ</a>\n» ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs : <a href=https://telegra.ph/BOT-FEATURES-11-09-28>Cʟɪᴄᴋ ʜᴇʀᴇ </a>\n» ʟᴀɴɢᴜᴀɢᴇ : <a href=https://docs.python.org/3/>Pʏᴛʜᴏɴ 3</a>\n» ʟɪʙʀᴀʀʏ : <a href=https://docs.pyrogram.org/>Pʏʀᴏɢʀᴀᴍ ᴠ2</a>\n» ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/searchingshiv>ᴜɴᴋɴᴏᴡɴ</a></b></blockquote>"""
     "SHORT_MSG": "<b>📊 ʜᴇʏ {first}, \n\n‼️ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ʟɪɴᴋ ‼️\n\n ⌯ ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..</b>",
     "START_PHOTO": "https://graph.org/file/510affa3d4b6c911c12e3.jpg",
